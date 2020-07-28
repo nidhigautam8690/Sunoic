@@ -1,0 +1,12 @@
+{
+  "name": "Sunoic",
+  "displayName": "Sunoic",
+  "expo": {
+    "name": "Sunoic",
+    "slug": "Sunoic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
